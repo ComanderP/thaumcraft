@@ -251,7 +251,7 @@ item.WandRod.57.name=Núcleo de Bastão de Osso
 item.WandRod.100.name=Núcleo de Bastão Primal
 #
 # this is what is used to name the wand - the position of the variables can be altered so it makes more sense in other languages
-item.Wand.name=%CAP %ROD %OBJ
+item.Wand.name=%OBJ %ROD %CAP
 #
 item.Wand.wand.obj=Varinha
 item.Wand.sceptre.obj=Ceptro
@@ -266,12 +266,12 @@ item.Wand.bone.rod=de Osso
 item.Wand.reed.rod=de Cana
 item.Wand.quartz.rod=de Quartzo
 item.Wand.primal.rod=Primal
-item.Wand.iron.cap=Varinha de Ferro
-item.Wand.gold.cap=Varinha de Ouro
-item.Wand.copper.cap=Varinha de Cobre
-item.Wand.silver.cap=Varinha de Prata
-item.Wand.thaumium.cap=Varinha de Thaumium
-item.Wand.void.cap=Varinha com Aspetos do Vazio
+item.Wand.iron.cap=com ponta de Ferro
+item.Wand.gold.cap=com ponta de Ouro
+item.Wand.copper.cap=com ponta de Cobre
+item.Wand.silver.cap=com ponta de Prata
+item.Wand.thaumium.cap=com ponta de Thaumium
+item.Wand.void.cap=com Aspetos do Vazio
 #
 item.ItemResource.0.name=Alumentum
 item.ItemResource.1.name=Nitor
